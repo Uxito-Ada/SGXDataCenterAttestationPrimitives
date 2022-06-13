@@ -19,7 +19,7 @@
     "ref-array-di": "^1.2.2",
     "ref-napi": "^3.0.3",
     "sequelize": "^6.6.5",
-    "sqlite3": "npm:@vscode/sqlite3@^5.0.7",
+    "sqlite3": "^5.0.6",
     "umzug": "^2.3.0",
     "winston": "^3.3.3"
   },
